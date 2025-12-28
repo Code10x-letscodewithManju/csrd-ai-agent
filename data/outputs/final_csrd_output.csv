@@ -1,0 +1,61 @@
+company,report_year,indicator_name,value,unit,confidence,source_page,source_section,notes
+AIB,2024,Total Scope 1 GHG Emissions,2875,tCO2e,1,79,"Scope 1, 2 & 3 GHG emissions",The value for Total Scope 1 GHG Emissions for the year 2024 is extracted from a data table detailing the breakdown of AIB Group's GHG emissions.
+AIB,2024,Total Scope 2 GHG Emissions,4391,tCO2e,1,79,"Table 1: Breakdown of AIB Group Scope 1, 2 & 3 and total GHG emissions","The value for 'Gross location-based Scope 2 GHG emissions' for the year 2024 is 4,391 tCO2e."
+AIB,2024,Total Scope 3 GHG Emissions,1067519,tCO2e,1,79,"Table 1: Breakdown of AIB Group Scope 1, 2 & 3 and total GHG emissions",The value for Total Scope 3 GHG Emissions for 2024 is found in Table 1 on page 79.
+AIB,2024,GHG Emissions Intensity,218,tCO2e/€M,1,80,Table 5: GHG intensity based on net revenue,"The GHG emissions intensity for 2024 is provided in a data table, showing an increase from 2023."
+AIB,2024,Total Energy Consumption,33028,MWh,1,78,Energy consumption and mix,"The total energy consumption for 2024 is provided in a data table on page 78, under the section 'Energy consumption and mix'. The value is calculated as the sum of fossil, nuclear, and renewable energy consumption."
+AIB,2024,Renewable Energy Percentage,,%,0,0,,Not found by AI Agent
+AIB,2024,Net Zero Target Year,2030,Year,1,66,Decarbonisation Journey,AIB aims to achieve Net Zero in its own operations by 2030.
+AIB,2024,Green Financing Volume,,€ Millions,0,0,,Not found by AI Agent
+AIB,2024,Total Employees,10469,FTE,1,29,Operating expenses,The staff numbers at period end for 2024 are provided in a data table under the section discussing operating expenses.
+AIB,2024,Female Employees,43,%,1,5,Sustainability Performance,The percentage of women in management positions is reported as 43% for 2024.
+AIB,2024,Gender Pay Gap,17.8,%,1,94,Gender Pay Gap Report,The Gender Pay Gap for AIB ROI in 2024 is reported as 17.8%.
+AIB,2024,Training Hours per Employee,,Hours,0,0,,Not found by AI Agent
+AIB,2024,Employee Turnover Rate,12.6,%,1,96,"Supplementary performance measures S1-6, S1-17",The employee turnover rate for 2024 is provided in a data table under the section discussing employee characteristics and performance measures.
+AIB,2024,Work-Related Accidents,,Count,0,0,,Not found by AI Agent
+AIB,2024,Collective Bargaining Coverage,,%,0,0,,Not found by AI Agent
+AIB,2024,Board Female Representation,40,%,1,126,Governance Report,"The Board Diversity Policy target for female representation is at least 40%, and this target was achieved in 2024."
+AIB,2024,Board Meetings,,Count,0,0,,Not found by AI Agent
+AIB,2024,Corruption Incidents,,Count,0,0,,Not found by AI Agent
+AIB,2024,Avg Payment Period to Suppliers,,Days,0,0,,Not found by AI Agent
+AIB,2024,Suppliers Screened for ESG,,%,0,0,,Not found by AI Agent
+BBVA,2024,Total Scope 1 GHG Emissions,39859,tCO2e,1,99,"GHG EMISSIONS BROKEN DOWN BY SCOPE 1, 2 AND 3 (EXCEPT FINANCED EMISSIONS) (BBVA GROUP)","The table provides a breakdown of GHG emissions by scope for the BBVA Group, including estimates for 2024."
+BBVA,2024,Total Scope 2 GHG Emissions,6995,tCO2e,1,99,"GHG EMISSIONS BROKEN DOWN BY SCOPE 1, 2 AND 3 (EXCEPT FINANCED EMISSIONS) (BBVA GROUP)","The value for 'Gross market-based scope 2 GHG emissions' for the year 2024 is 6,995 tCO2e."
+BBVA,2024,Total Scope 3 GHG Emissions,124.3,tCO2e,1,97,FINANCED EMISSIONS (BBVA GROUP),The total Scope 3 GHG emissions for 2024 are listed in a data table under the 'FINANCED EMISSIONS (BBVA GROUP)' section on page 97.
+BBVA,2024,GHG Emissions Intensity,,tCO2e/€M,0,0,,Not found by AI Agent
+BBVA,2024,Total Energy Consumption,707582,MWh,1,98,Energy consumption and carbon footprint calculation,The total energy consumption for 2024 is provided in a data table on page 98.
+BBVA,2024,Renewable Energy Percentage,90,%,1,98,Energy consumption and carbon footprint calculation,The share of renewable sources in total energy consumption for 2024 is 90%.
+BBVA,2024,Net Zero Target Year,,Year,0,0,,Not found by AI Agent
+BBVA,2024,Green Financing Volume,,€ Millions,0,0,,Not found by AI Agent
+BBVA,2024,Total Employees,,FTE,0,0,,Not found by AI Agent
+BBVA,2024,Female Employees,35.4,%,1,136,Gender diversity metrics,The percentage of women in the management team for 2024 is 35.4%.
+BBVA,2024,Gender Pay Gap,28.3,%,1,130,Gross pay gap,The gross gender pay gap at BBVA Group for 2024 is 28.3% (average).
+BBVA,2024,Training Hours per Employee,53.4,Hours,1,126,BASIC TRAINING DATA (BBVA GROUP),The data is presented in a table showing basic training metrics for the years 2024 and 2023.
+BBVA,2024,Employee Turnover Rate,11.5,%,1,149,TOTAL TURNOVER RATE AND DISTRIBUTION BY GENDER (BBVA GROUP. PERCENTAGE %),"The total employee turnover rate for 2024 is provided in a data table, showing a breakdown by gender and region."
+BBVA,2024,Work-Related Accidents,,Count,0,0,,Not found by AI Agent
+BBVA,2024,Collective Bargaining Coverage,,%,0,0,,Not found by AI Agent
+BBVA,2024,Board Female Representation,,%,0,0,,Not found by AI Agent
+BBVA,2024,Board Meetings,,Count,0,0,,Not found by AI Agent
+BBVA,2024,Corruption Incidents,,Count,0,0,,Not found by AI Agent
+BBVA,2024,Avg Payment Period to Suppliers,,Days,0,0,,Not found by AI Agent
+BBVA,2024,Suppliers Screened for ESG,,%,0,0,,Not found by AI Agent
+BPCE,2024,Total Scope 1 GHG Emissions,23154,tCO2e,1,142,"2.2.4.2 (E1-6) GROSS SCOPES 1, 2, 3 AND TOTAL GHG EMISSIONS",The value for Total Scope 1 GHG Emissions for the year 2024 is found in a data table on page 142.
+BPCE,2024,Total Scope 2 GHG Emissions,5158,tCO2e,1,142,"2.2.4.2 (E1-6) GROSS SCOPES 1, 2, 3 AND TOTAL GHG EMISSIONS","The value for 'Gross Scope 2 GHG emissions (market-based)' for the year 2024 is 5,158 tCO2e."
+BPCE,2024,Total Scope 3 GHG Emissions,113826510,tCO2e,1,142,"2.2.4.2 (E1-6) GROSS SCOPES 1, 2, 3 AND TOTAL GHG EMISSIONS",The value for Total Scope 3 GHG Emissions for 2024 is found in a data table on page 142.
+BPCE,2024,GHG Emissions Intensity,,tCO2e/€M,0,0,,Not found by AI Agent
+BPCE,2024,Total Energy Consumption,,MWh,0,0,,Not found by AI Agent
+BPCE,2024,Renewable Energy Percentage,14,%,1,132,SUSTAINABILITY REPORT 2 Groupe BPCE sustainability report 2024 Universal registration document,The current electricity supply mix comprises 14% renewable energy. The ambition is to increase this to 56% by 2030.
+BPCE,2024,Net Zero Target Year,,Year,0,0,,Not found by AI Agent
+BPCE,2024,Green Financing Volume,,€ Millions,0,0,,Not found by AI Agent
+BPCE,2024,Total Employees,,FTE,0,0,,Not found by AI Agent
+BPCE,2024,Female Employees,,%,0,0,,Not found by AI Agent
+BPCE,2024,Gender Pay Gap,17,%,1,179,REMUNERATION METRICS (PAY GAP AND TOTAL REMUNERATION),Gender pay gap within the group scope excluding Natixis for 2024.
+BPCE,2024,Training Hours per Employee,36,Hours,1,176,Training hours completed in 2024,"The average number of training hours per employee for 2024 is 36 hours, as mentioned in the data table on page 176."
+BPCE,2024,Employee Turnover Rate,9.21,%,1,172,SUSTAINABILITY REPORT 2 Groupe BPCE sustainability report 2024 Universal registration document,The percentage of permanent staff turnover rate for 2024 is explicitly mentioned in a data table on page 172.
+BPCE,2024,Work-Related Accidents,,Count,0,0,,Not found by AI Agent
+BPCE,2024,Collective Bargaining Coverage,100,%,1,172,3.1.5.4 (S1-8) COLLECTIVE BARGAINING COVERAGE AND DIALOG WITH EMPLOYEE REPRESENTATIVES,The document states that 100% of all employees are covered by collective bargaining agreements for the year 2024.
+BPCE,2024,Board Female Representation,47,%,1,16,GOVERNANCE Composition of the Supervisory Board,The document mentions a 47% gender diversity rate for the Supervisory Board in 2024.
+BPCE,2024,Board Meetings,,Count,0,0,,Not found by AI Agent
+BPCE,2024,Corruption Incidents,,Count,0,0,,Not found by AI Agent
+BPCE,2024,Avg Payment Period to Suppliers,27.38,Days,1,339,4.1.2.2 (G1-6) PAYMENT PRACTICES,"The average payment period to suppliers in 2024 is 27.38 days, which complies with the policy to pay within 30 days."
+BPCE,2024,Suppliers Screened for ESG,,%,0,0,,Not found by AI Agent
