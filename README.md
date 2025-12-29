@@ -8,6 +8,10 @@ This project implements an intelligent **AI Agent** designed to automate the ext
 
 Unlike simple "Chat with PDF" wrappers, this system utilizes a **LangGraph-orchestrated architecture** with a "Router-Retriever" pattern. It deterministically routes specific indicators to relevant pages, extracts data using **GPT-4o** with structured output enforcement, and validates the results with a confidence scoring engine.
 
+
+![CSRD AI Agent Architecture](CSRD_Agentic_RAG_Architecture_diagram.png)
+
+
 ### 🚀 Key Features
 * **Agentic Workflow:** Built on **LangGraph** to model the extraction process as a state machine (`Route` → `Extract` → `Validate`).
 * **Smart Routing:** Heuristic scoring engine filters 500+ page documents down to the top 8-15 most relevant pages per indicator, reducing token costs by ~95%.
